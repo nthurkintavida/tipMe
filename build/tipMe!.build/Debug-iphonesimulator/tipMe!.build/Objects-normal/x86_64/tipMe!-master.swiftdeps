@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
+options: "1c002437e4a987291661601eb876887b"
+build_time: [497275465, 365956000]
+inputs: 
+	"/Users/LittleBrain/Work/Study/iOSChapters/codePath/tipMe!/tipMe!/AppDelegate.swift": [497274018, 0]
+	"/Users/LittleBrain/Work/Study/iOSChapters/codePath/tipMe!/tipMe!/ViewController.swift": [497274018, 0]
+	"/Users/LittleBrain/Work/Study/iOSChapters/codePath/tipMe!/tipMe!/Constants.swift": [497274018, 0]
+	"/Users/LittleBrain/Work/Study/iOSChapters/codePath/tipMe!/tipMe!/SettingsViewController.swift": [497274018, 0]
